@@ -1,6 +1,3 @@
-[submodule "SDL"]
-	path = SDL
-	url = git@github.com:libsdl-org/SDL.git
 [submodule "implot"]
 	path = implot
 	url = git@github.com:epezent/implot.git
